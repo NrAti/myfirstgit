@@ -1,2 +1,2 @@
 # myfirstgit
-test how to use it
+test how to use github
